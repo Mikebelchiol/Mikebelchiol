@@ -1,8 +1,8 @@
 ### Olá, Eu sou Mikéias! Bem vindo ao meu perfil!👏😉
 
 
--  🎓 Técnico em Informátic
-- 🌱 Desenvolvedor Back-End
+- 🎓 Técnico em Informática
+- 🌱 Desenvolvedor Front-End
 - 🤓 Estudando  React, APIs e varias outras aplicações
 - 🧐 Estudando para se tornar um Desenvolverdor Full-Stack
 
